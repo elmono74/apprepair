@@ -8,12 +8,16 @@
 
 .desktop .header-section {
   height: 800px;
-  background-image: url(https://c.animaapp.com/PQzGnaOI/img/header-section.png);
+  background-image: url(https://c.animaapp.com/PQzGnaOI/img/header-section.png) center center / cover no-repeat, rgba(0, 0, 0, 0.1);
+  background-blend-mode: overlay;
   background-size: cover;
   background-position: 50% 50%;
   position: relative;
   align-self: stretch;
   width: 100%;
+  height: 800px;
+  position: relative;
+  align-self: stretch;
 }
 
 .desktop .group {
