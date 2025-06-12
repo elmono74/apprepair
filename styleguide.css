@@ -1,17 +1,17 @@
 :root {
-  --displaydisplay-2: rgba(255, 255, 255, 1);
-  --displaydisplay-1: rgba(242, 242, 242, 1);
   --paragraphparagraph-2: rgba(255, 255, 255, 1);
+  --backgroundbackground-3: rgba(41, 88, 250, 1);
+  --displaydisplay-1: rgba(242, 242, 242, 1);
   --displaydisplay-4: rgba(0, 0, 0, 1);
   --paragraphparagraph-1: rgba(0, 0, 0, 1);
-  --displaydisplay-3: rgba(247, 244, 235, 1);
-  --backgroundbackground-3: rgba(41, 88, 250, 1);
   --backgroundbackground-1: rgba(247, 244, 235, 1);
+  --displaydisplay-3: rgba(247, 244, 235, 1);
   --backgroundbackground-2: rgba(0, 0, 0, 1);
+  --displaydisplay-2: rgba(255, 255, 255, 1);
   --paragraph-paragraph-3-font-family: "Geist", Helvetica;
   --paragraph-paragraph-3-font-weight: 400;
   --paragraph-paragraph-3-font-size: 14px;
   --paragraph-paragraph-3-letter-spacing: 0px;
-  --paragraph-paragraph-3-line-height: 139.9999976158142%;
+  --paragraph-paragraph-3-line-height: 140%;
   --paragraph-paragraph-3-font-style: normal;
 }
